@@ -4,7 +4,7 @@ A modern, secure, and SEO-optimized Next.js student portal for SXCCE. Access stu
 
 ## App
 
-[![Download APK](https://img.shields.io/badge/⬇%20Download%20APK-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://sxcce-portal.netlify.app/app-release-signed.apk)
+[![Download APK](https://img.shields.io/badge/⬇%20Download%20APK-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://sxcce-portal.netlify.app/Sxcce-Automation.apk)
 ## Features
 
 - ✅ **Student Portal**: Login with phone number to access student information
