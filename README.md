@@ -67,3 +67,4 @@ A modern, secure, and SEO-optimized Next.js student portal for SXCCE. Access stu
 ## License
 
 © 2026 Astlin Dijo. All rights reserved.
+
