@@ -29,13 +29,14 @@ A modern, secure, and SEO-optimized Next.js student portal for SXCCE. Access stu
 
 ## Features
 
-- ✅ **Student Portal**: Login with phone number to access student information
+- ✅ **Student Portal**: Login with phone number or Roll number to access student information
 - ✅ **Multiple Services**: Access student details, attendance, fees, exam marks, and disciplinary records
 - ✅ **Security**: Comprehensive security headers and best practices
 - ✅ **SEO Optimized**: Meta tags, sitemap, robots.txt for Google indexing
 - ✅ **Modern UI**: Beautiful, responsive design with smooth animations
 - ✅ **TypeScript**: Full type safety
 - ✅ **Performance**: Optimized for speed and Core Web Vitals
+- ✅ **Gate Keeper**: (Middleware)
 
 ## Portal Features
 
