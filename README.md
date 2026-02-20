@@ -49,7 +49,7 @@ A modern, secure, and SEO-optimized Next.js student portal for SXCCE. Access stu
 
 ## Usage
 
-1. Enter your 10-digit mobile number on the login page
+1. Enter your 10-digit mobile number or roll number on the login page
 2. Click "Login" to access the student portal
 3. Select any service from the menu
 4. Use the back button to return to the menu
