@@ -64,6 +64,20 @@ A modern, secure, and SEO-optimized Next.js student portal for SXCCE. Access stu
 - Referrer Policy
 - Permissions Policy
 
+## 🛡️ Security & Maintenance Declaration
+
+As the developer of this project, I am committed to maintaining code quality, security, and long-term stability.
+
+- 🔧 Regularly update dependencies to their latest stable versions  
+- 🚀 Fix reported vulnerabilities using `npm audit` and security patches  
+- 📦 Monitor deprecated packages and migrate to supported alternatives  
+- 🔍 Continuously review build logs and deployment logs  
+- 🛡️ Follow best practices for secure coding and data protection  
+- 📊 Monitor application performance and runtime errors  
+- 🔄 Maintain version control and proper release management  
+
+This project is actively maintained to ensure security, reliability, and performance.
+
 ## Created By
 
 **Astlin Dijo** - [@astlin_dijo](https://www.google.com/search?q=Astlin+Dijo)
