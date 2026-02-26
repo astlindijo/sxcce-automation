@@ -68,23 +68,23 @@ A modern, secure, and SEO-optimized Next.js student portal for SXCCE. Access stu
 - **Bot Protection**: Automatic detection and blocking of malicious bots and scrapers
 - **DDoS Protection**: Automatic IP blocking after repeated violations
 - No index For Attendence Calculation page in SEO
-- Password Protection
-- Features
+## Password Protection
+### Features
 
-Multi-step single-page form — Instructions → Identity → OTP → Password → Success
-Email OTP verification — 6-digit OTP sent to yourname.rollno@sxcce.edu.in address, valid for 5 minutes, single-use
-After 5 Wrong Attempt OTP Expire.
-Roll-number cross-check — the number inside the email must match the roll number field
-Secure password storage — bcrypt (cost 10) hash stored in DataBase; plaintext never persisted
-OTP - bcrypt (cost 8) hash stored in DB ; Auto Erase After Session End.
-bcrypt compare used to Authenticate (Login)
-Password strength indicator — real-time feedback while typing
-Rate limiting — max 3 OTP requests per hour per email.
-noindex 
-**Rate Limiting**: IP-based rate limiting 
-**Bot Protection**: Automatic detection and blocking of malicious bots and scrapers
-**DDoS Protection**: Automatic IP blocking after repeated violations
-Change Password by Same OTP process
+- Multi-step single-page form — Instructions → Identity → OTP → Password → Success
+- Email OTP verification — 6-digit OTP sent to yourname.rollno@sxcce.edu.in address, valid for 5 minutes, single-use
+- After 5 Wrong Attempt OTP Expire.
+- Roll-number cross-check — the number inside the email must match the roll number field
+- Secure password storage — bcrypt (cost 10) hash stored in DataBase; plaintext never persisted
+- OTP - bcrypt (cost 8) hash stored in DB ; Auto Erase After Session End.
+- bcrypt compare used to Authenticate (Login)
+- Password strength indicator — real-time feedback while typing
+- Rate limiting — max 3 OTP requests per hour per email.
+- noindex 
+- **Rate Limiting**: IP-based rate limiting 
+- **Bot Protection**: Automatic detection and blocking of malicious bots and scrapers
+- **DDoS Protection**: Automatic IP blocking after repeated violations
+- Change Password by Same OTP process
   
 
 ## 🛡️ Security & Maintenance Declaration
