@@ -40,7 +40,7 @@ A modern, secure, and SEO-optimized Next.js student portal for SXCCE. Access stu
 
 ## Portal Features
 
-- **Student Details**: View complete student information
+- **Student Details**: View student information
 - **Absent Details**: Check attendance records
 - **Disciplinary Details**: View disciplinary records
 - **Fee Details**: Access fee information
