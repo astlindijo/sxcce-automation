@@ -64,6 +64,7 @@ A modern, secure, and SEO-optimized Next.js student portal for SXCCE. Access stu
 - Content Type Options
 - Referrer Policy
 - Permissions Policy
+- HMAC-based session tokens (tamper-proof)
 - **Rate Limiting**: IP-based rate limiting (30 requests/min for normal traffic, 10 for bots)
 - **Bot Protection**: Automatic detection and blocking of malicious bots and scrapers
 - **DDoS Protection**: Automatic IP blocking after repeated violations
