@@ -14,6 +14,8 @@ A modern, secure, and SEO-optimized Next.js student portal for SXCCE. Access stu
 
 ✅ [sxcce.dev](https://sxcce.dev)
 
+✅ [sxcce-automation.vercel.app](https://sxcce-automation.vercel.app)
+
 ✅ [astlin-dijo.tech](https://astlin-dijo.tech)
 
 ## Images
