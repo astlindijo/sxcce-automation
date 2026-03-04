@@ -72,6 +72,7 @@ A modern, secure, and SEO-optimized Next.js student portal for SXCCE. Access stu
 - **DDoS Protection**: Automatic IP blocking after repeated violations
 - No index For Attendence Calculation page in SEO
 ## Password Protection
+[**Video Tutorial**](https://www.linkedin.com/posts/astlin-dijo_webdevelopment-cybersecurity-authentication-ugcPost-7434686801879056384-dMTD?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFlAdxoBdPgwuHrFJPlltus7_Ho-pjDQPTw)
 ### Features
 
 - Multi-step single-page form — Instructions → Identity → OTP → Password → Success
