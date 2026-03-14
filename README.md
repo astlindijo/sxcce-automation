@@ -61,7 +61,7 @@ A modern, secure, and SEO-optimized Next.js student portal for SXCCE. Access stu
 
 - Strict Transport Security (HSTS)
 - XSS Protection
-- Content Security Policy (configured for SXCCE iframe)
+- Content Security Policy 
 - Frame Options
 - Content Type Options
 - Referrer Policy
