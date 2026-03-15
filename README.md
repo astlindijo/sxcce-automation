@@ -80,7 +80,7 @@ A modern, secure, and SEO-optimized Next.js student portal for SXCCE. Access stu
 - After 5 Wrong Attempt OTP Expire.
 - Roll-number cross-check — the number inside the email must match the roll number field
 - Secure password storage — bcrypt (cost 10) hash stored in DataBase; plaintext never persisted
-- OTP - bcrypt (cost 8) hash stored in DB ; Auto Erase After Session End.
+- OTP - bcrypt hash stored in DB ; Auto Erase After Session End.
 - bcrypt compare used to Authenticate (Login)
 - Password strength indicator — real-time feedback while typing
 - Rate limiting — max 3 OTP requests per hour per email.
