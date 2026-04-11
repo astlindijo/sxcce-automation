@@ -8,6 +8,8 @@ A modern, secure, and SEO-optimized Next.js student portal for SXCCE. Access stu
 
 ## Live Demo
 
+Only Below is I owned Sites
+
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Click%20Here-brightgreen)](https://sxcce-app.vercel.app)
 
 ✅ [sxcce.engineer](https://sxcce.engineer)
