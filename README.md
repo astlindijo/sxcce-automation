@@ -30,7 +30,15 @@ Only Below is I owned Sites
 |---------|---------|---------|
 | ![img4](images/img4.jpeg) | ![img5](images/img5.jpeg) | ![img6](images/img6.jpeg) |
 
+## Website analytics
 
+| Image 1 | Image 2 | Image 3 |
+|---------|---------|---------|
+| ![img2](images/image2.png) | ![img1](images/image1.png) | ![img3](images/image3.png) |
+
+| Image 4 |
+|---------|
+| ![img4](images/image4.png) |
 ## Features
 
 - ✅ **Student Portal**: Login with phone number or Roll number to access student information
