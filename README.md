@@ -20,6 +20,10 @@ Only Below is I owned Sites
 
 ✅ [astlin-dijo.tech](https://astlin-dijo.tech)
 
+## Site Status
+
+[![Status Page](https://img.shields.io/badge/Status-Page-0A66C2?style=for-the-badge&logo=statuspage&logoColor=white)](https://status-sxcce.vercel.app)
+
 ## Images
 
 | Image 1 | Image 2 | Image 3 |
